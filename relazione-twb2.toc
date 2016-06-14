@@ -10,3 +10,4 @@
 \contentsline {subsubsection}{\numberline {2.1.5}How}{3}{subsubsection.2.1.5}
 \contentsline {subsubsection}{\numberline {2.1.6}When}{3}{subsubsection.2.1.6}
 \contentsline {subsection}{\numberline {2.2}Altri elementi nella pagina}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Pubblicit\`a}{4}{subsection.2.3}

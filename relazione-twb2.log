@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.6.14)  14 JUN 2016 17:03
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.6.14)  14 JUN 2016 17:18
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -248,10 +248,10 @@ lo su-pe-ri-ore (header),
 
 [4] (./relazione-twb2.aux) ) 
 Here is how much of TeX's memory you used:
- 5093 strings out of 495061
- 77390 string characters out of 1182621
+ 5095 strings out of 495061
+ 77420 string characters out of 1182621
  153348 words of memory out of 3000000
- 8211 multiletter control sequences out of 15000+50000
+ 8212 multiletter control sequences out of 15000+50000
  9913 words of font info for 35 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,4n,38p,654b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -262,9 +262,9 @@ ts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc
 -texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmtt12.pfb>
-Output written on relazione-twb2.pdf (6 pages, 101638 bytes).
+Output written on relazione-twb2.pdf (6 pages, 102659 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
