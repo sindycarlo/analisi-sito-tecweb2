@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.6.14)  14 JUN 2016 17:18
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.6.14)  15 JUN 2016 10:53
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -246,12 +246,51 @@ Overfull \hbox (7.14171pt too wide) in paragraph at lines 131--133
 lo su-pe-ri-ore (header),
  []
 
-[4] (./relazione-twb2.aux) ) 
+[4]
+
+! LaTeX Error: Environment îtemize undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \begin{îtemize}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 \end
+          {itemizie}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{itemizie}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 \end{itemizie}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5] (./relazione-twb2.aux) ) 
 Here is how much of TeX's memory you used:
- 5095 strings out of 495061
- 77420 string characters out of 1182621
+ 5103 strings out of 495061
+ 77509 string characters out of 1182621
  153348 words of memory out of 3000000
- 8212 multiletter control sequences out of 15000+50000
+ 8216 multiletter control sequences out of 15000+50000
  9913 words of font info for 35 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,4n,38p,654b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -262,9 +301,9 @@ ts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc
 -texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmtt12.pfb>
-Output written on relazione-twb2.pdf (6 pages, 102659 bytes).
+Output written on relazione-twb2.pdf (7 pages, 105653 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
