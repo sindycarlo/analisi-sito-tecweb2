@@ -1,0 +1,8 @@
+# analisi-sito-tecweb2 lista immagini
+
+
+home.png --->  http://www.leomajor.gov.it/
+
+paginainterna.png  ---> http://www.leomajor.gov.it/indirizzo-classico/
+
+informazioniscuola.png ---->   http://www.leomajor.gov.it/informazioni-utili/
